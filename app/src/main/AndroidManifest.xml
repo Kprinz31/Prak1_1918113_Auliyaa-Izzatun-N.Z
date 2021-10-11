@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Tugas1">
         <activity
+            android:name=".SEGITIGA"
+            android:exported="true" />
+        <activity
             android:name=".BIODATA"
             android:exported="true" />
         <activity
